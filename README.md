@@ -19,3 +19,5 @@
    - Clase Sucursal: agregarCamion(), quitarCamion().
 
 - En este caso, no se desarrollaron pruebas unitarias.
+
+- Por temas de simulacion se crearon objetos predeterminados, permitiendo que en el menu solo se pueda interactuar con estos objetos creados. 
